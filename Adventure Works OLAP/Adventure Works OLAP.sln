@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Adventure Works OLAP", "Adventure Works OLAP\Adventure Works OLAP.dwproj", "{A0AD57B1-1C66-4958-99BD-A909E9447B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0AD57B1-1C66-4958-99BD-A909E9447B9C}.Development|Default.ActiveCfg = Development
+		{A0AD57B1-1C66-4958-99BD-A909E9447B9C}.Development|Default.Build.0 = Development
+		{A0AD57B1-1C66-4958-99BD-A909E9447B9C}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE70C95-189F-4BF2-9E91-693EF9EB1825}
+	EndGlobalSection
+EndGlobal
